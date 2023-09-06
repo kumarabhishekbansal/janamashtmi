@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/janamashtmi/static/css/main.89473548.css",
-    "main.js": "/janamashtmi/static/js/main.97bb4ecd.js",
+    "main.js": "/janamashtmi/static/js/main.87c972f7.js",
     "static/media/b1.mp4": "/janamashtmi/static/media/b1.55af827144a03a92ab00.mp4",
     "static/media/kv.mp4": "/janamashtmi/static/media/kv.0ac2ba5bd68cc0447952.mp4",
     "static/media/kva.mp3": "/janamashtmi/static/media/kva.02f5aa2c6291b1e974ec.mp3",
@@ -9,10 +9,10 @@
     "static/media/bg.jpg": "/janamashtmi/static/media/bg.359b39fb8904df86fb1e.jpg",
     "index.html": "/janamashtmi/index.html",
     "main.89473548.css.map": "/janamashtmi/static/css/main.89473548.css.map",
-    "main.97bb4ecd.js.map": "/janamashtmi/static/js/main.97bb4ecd.js.map"
+    "main.87c972f7.js.map": "/janamashtmi/static/js/main.87c972f7.js.map"
   },
   "entrypoints": [
     "static/css/main.89473548.css",
-    "static/js/main.97bb4ecd.js"
+    "static/js/main.87c972f7.js"
   ]
 }
