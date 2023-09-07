@@ -29,10 +29,12 @@ const Heading=()=>{
                     Happy Krishna Janmashtami
                 </h1>
             <form className='w-100 text-center' ref={form} onSubmit={sendEmail}>
-            <input type="text" className='mt-4 container text-center btn btn-outline-success'
+            <input type="text" className='mt-4 container text-bold text-center btn btn-outline-success'
                 onChange={inputval}
                 value={inval}
                 name="from_name"
+                placeholder='ENTER YOUR NAME'
+                required
             />
             <h3 className='text-warning mt-4'>Type Your Name</h3>
             <button className='btn btn-lg btn-info mt-4'
